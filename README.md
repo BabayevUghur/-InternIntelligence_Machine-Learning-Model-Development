@@ -1,5 +1,8 @@
 # -InternIntelligence_Machine_Learning_Model_Development
 
-Libraries used: pandas(analyzing, exploring, and manipulating), scikit-learn(encoding and training data), panel(user interface)
+Libraries used:
+	•	pandas (for analyzing, exploring, and manipulating data)
+	•	scikit-learn (for encoding and training data)
+	•	panel (for the user interface)
 
-I built a ml model on car price prediction from the dataset I got from Kaggle which was scraped from turbo.az that consists of 10k rows and 6 columns, I added a new column which is named 'brand' using Excel.
+I built a machine learning model for car price prediction using a dataset from Kaggle, which was scraped from turbo.az. The dataset consists of 10,000 rows and 6 columns. Additionally, I added a new column named ‘brand’ using Excel.
